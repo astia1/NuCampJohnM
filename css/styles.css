@@ -32,6 +32,10 @@ footer {
     min-height: 200px;
 }
 
+.row-pad { 
+    padding: 20px 0;  
+}
+
 .navbar {
     background-color: #901CAD;
 }
