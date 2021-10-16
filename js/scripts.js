@@ -13,3 +13,17 @@
             }
         });
     });
+
+   
+    $(function(){
+        $("#reserveButton").click(function(){
+          $("#reserveModal").modal('show'); // show reserve
+        });
+    });
+
+    
+    $(function(){
+        $("#loginButton").click(function(){
+          $("#loginModal").modal('show'); // show reserve
+        });
+    });
